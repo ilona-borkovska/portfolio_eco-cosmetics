@@ -1,5 +1,7 @@
 <h1>Eco-cosmetics Landing Page</h1>
 
+## [Eco-cosmetics](https://ilona-borkovska.github.io/portfolio_eco-cosmetics/)
+
 <p>This is a modern, responsive design that is optimized for various screen sizes. The page has been designed with a modern and minimalist aesthetic and features. Using the <strong>BEM methodology</strong> and <strong>SCSS</strong> made it easier to organize and maintain the code.</p>
 
 <p>Desktop</p>
